@@ -48,6 +48,29 @@ You can also ping me on twitter [@theSquashSH](https://twitter.com/thesquashsh) 
 
 Also, a list of some [iOS apps](https://www.nowsecure.com/blog/2017/02/23/cloudflare-cloudbleed-bugs-impact-mobile-apps) that *may* have been affected.
 
+## Furry Sites (using the cloudflare SSL proxy)
+- anthrocon.org
+- anthrowear.com
+- beta.furrynetwork.com
+- christianfurs.net
+- e621.net
+- f-list.net
+- ferzu.com
+- flayrah.com
+- furaffinity.net
+- furcast.fm
+- furriesxtreme.org
+- furrtrax.com
+- furry4life.org
+- furrypile.co.uk
+- furstarter.com
+- furtherconfusion.org
+- sofurry.com
+- thefurryforum.com
+- u18chan.com
+- weasyl.com (Who have expired all their tokens/cookies already)
+
+
 ## Notable Sites
 
 - authy.com
